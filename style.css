@@ -1,0 +1,9 @@
+body {
+    background-color: pink;
+    border-bottom-color: black;
+}
+img{
+    width: 205px;
+    height: auto;
+    border:black;
+}
